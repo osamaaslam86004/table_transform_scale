@@ -24,7 +24,7 @@ This project demonstrates a responsive table with a smooth hover effect using **
    ```
 2. Navigate to the project folder:
    ```sh
-   cd repo-name
+   cd table_transform_scale
    ```
 3. Open `index.html` in your browser to see the table in action.
 
